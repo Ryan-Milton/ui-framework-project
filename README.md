@@ -1,50 +1,44 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) JS Framework Comparative Analysis
 =======================================================================
 
-## Framework Name (change me)
+## Knockout.js
 
-### Research Conducted By: Student Names
+### Research Conducted By: Ryan && George
 
 ### Overall Score and Comments
 #### Score (Out of 10): 7
 #### General Comments
 Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
+* We think it's a primarily front end stack but can do a bit of the backend when partnered with ajax or other packages.
 
 #### Pros
-* Item 1
-* Item 2
+* "Hot Update"
+* Easy to Learn
+* Good tutorials in the Docs
 
 #### Cons
-* Item 1
-* Item 2
+* Tutorials don't show where you messed up.
 
 ### Ratings and Reviews
 #### Documentation
-Thoughts go here
+Documentation is quite clear and easy to understand. BUT. They throw punches at jQuery.
+An example is as follows, 
+* "To summarise: KO doesn’t compete with jQuery or similar low-level DOM APIs. KO provides a complementary, high-level way to link a data model to a UI. KO itself doesn’t depend on jQuery, but you can certainly use jQuery at the same time, and indeed that’s often useful if you want things like animated transitions."
 
 #### Systems Requirements
-Above and beyond 'node' and 'linux', what dependencies or core requirements exist for this framework?  Can it play at AWS/Heroku?  Does it require a certain database?
+The requirements are that your computer function... it is an EXTREMELY lightweight library.
 
 #### Ramp-Up Projections
-How long would/should it take a team of mid-junior developers to become productive?
+If junior or mid level devs were to use this the transition wouldn't take long at all. For a small project, between 2 days to a week (depending on complexity). For a medium sized project, a week to a month. For a large sized project, a month 
 
 #### Community Support and Adoption levels
 How popular is this framework? What big companies are running on it? How is it "seen" in the general JS community?  Is there an active community of developers supporting and growing it?
 
 
 ### Links and Resources
-* [framework](http://xyz.com)
-* [docs](http://xyz.com)
-* [examples/tutorials](http://xyz.com)
+* [Knockout](https://knockoutjs.com/index.html)
+* [docs](https://knockoutjs.com/documentation/introduction.html)
+* [examples/tutorials](http://learn.knockoutjs.com/#/?tutorial=intro)
 
 ### Code Demos
-* [live/running application](http://xyz.com)
-* [code repository](http://xyz.com)
-
-### Operating Instructions
-If someone were to download your repo (above), what steps do they need to take to run the application
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* [Knockout Counter!](https://codesandbox.io/s/k0430z8x07)
