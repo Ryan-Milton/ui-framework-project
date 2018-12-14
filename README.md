@@ -29,7 +29,7 @@ An example is as follows,
 The requirements are that your computer function... it is an EXTREMELY lightweight library.
 
 #### Ramp-Up Projections
-If junior or mid level devs were to use this the transition wouldn't take long at all. For a small project, between 2 days to a week (depending on complexity). For a medium sized project, a week to a month. For a large sized project, a month 
+If junior or mid level devs were to use this the transition wouldn't take long at all. For a small project, between 2 days to a week (depending on complexity). For a medium sized project, a week to a month. For a large sized project, a month to 6 months or so.
 
 #### Community Support and Adoption levels
 How popular is this framework? What big companies are running on it? How is it "seen" in the general JS community?  Is there an active community of developers supporting and growing it?
